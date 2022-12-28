@@ -34,6 +34,18 @@ Gör ett program som ska sitta i en sensor på lisebergs åkattration Helix. Fö
 På Liseberg finns 4 olika åkband; ```small```, ```medium```, ```large``` och ```platinum```. För att få åka Balder krävs ```large``` eller ```platinum```. 
 Gör ett program som kollar ens åkband och skriver ut ifall man får åka Balder eller inte.
 
+**Jämförspriskalkylator**
+
+Formeln för jämförspris är följande:
+```
+(pris i kronor / vikt i gram) * 1000 gram
+```
+För att få ut vad just ett paket exempelvis mjöl kostar per kilo.
+Om det skall gå per kilo, liter eller styckpris bestämmer du.
+
+Skriv ett program som tar en varas ```pris i kronor``` samt ```vikt i gram``` och skriver ut ett jämförpris.
+
+
 ## Switch 
 **Weekdays**
 Gör ett program som tar ett nummer ( 1-7 ) och skriver ut vilken veckodag numret motsvarar. Ex. 1 = måndag, 3 = untzdag.
