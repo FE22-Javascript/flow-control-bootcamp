@@ -34,25 +34,6 @@ Gör ett program som ska sitta i en sensor på lisebergs åkattration Helix. Fö
 På Liseberg finns 4 olika åkband; ```small```, ```medium```, ```large``` och ```platinum```. För att få åka Balder krävs ```large``` eller ```platinum```. 
 Gör ett program som kollar ens åkband och skriver ut ifall man får åka Balder eller inte.
 
-
-**BMI kalkylator**
-BMI ( Body Mass Index ) sägs vara ett hälsomått som visar på under eller övervikt. Det bör dock tas med en nypa salt då vi alla människor är unika ( och awesome! ). 
-
-Formeln för BMI är följande:
-```
-kroppsvikten i kg / (kroppslängden i meter * kroppslängden i meter) 
-```
-
-Resultat från formeln delas in i olika *viktklasser*.
-|BMI|Klassificering|
-|---|---|
-|< 18,5|Undervikt|
-|18,5 – 25|Normalvikt|
-|25 – 30|Övervikt|
-|30 > |Fetma|
-
-Skriv en program som tar en persons ```längd i cm``` samt ```vikt i kg``` och skriver ut en BMI-klassificering.
-
 ## Switch 
 **Weekdays**
 Gör ett program som tar ett nummer ( 1-7 ) och skriver ut vilken veckodag numret motsvarar. Ex. 1 = måndag, 3 = untzdag.
